@@ -47,7 +47,7 @@ params:
     favicon32x32: "/Favicon_32x32.png"
     apple_touch_icon: "/Favicon.ico"
 
-    label:
+  label:
     text: "JaiJanse.com"
   #  icon: "/Favicon.ico"
   #  iconHeight: 35

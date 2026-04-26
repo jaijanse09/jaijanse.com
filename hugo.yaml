@@ -43,8 +43,8 @@ params:
 
   # assets:
   # favicon: 
-  # favicon16x16: 
-  # favicon32x32: 
+  favicon16x16: <link rel="icon" type="image/png" sizes="16x16" href="/Favicon_16x16.png">
+  favicon32x32: <link rel="icon" type="image/png" sizes="32x32" href="/Favicon_32x32.png">
   # apple_touch_icon: 
 
   label:

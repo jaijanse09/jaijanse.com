@@ -41,11 +41,11 @@ params:
     - name: Email
       url: "mailto:contact@jaijanse.com"
 
-  assets:
-    favicon: "<link / abs url>"
-    favicon16x16: "<link / abs url>"
-    favicon32x32: "<link / abs url>"
-    apple_touch_icon: "<link / abs url>"
+  # assets:
+  # favicon: 
+  # favicon16x16: 
+  # favicon32x32: 
+  # apple_touch_icon: 
 
   label:
     text: "JaiJanse.com"

@@ -27,10 +27,10 @@ params:
     enabled: true
     title: "Jai Janse"
     subtitle: "Co Founder / Y12 Student"
-    imageUrl: ""
-    imageTitle: "Profile image"
-    imageWidth: 120
-    imageHeight: 120
+    # imageUrl: 
+    # imageTitle: "Profile image"
+    # imageWidth: 120
+    # imageHeight: 120
     
   # Social icons 
   socialIcons:
@@ -41,15 +41,15 @@ params:
     - name: Email
       url: "mailto:contact@jaijanse.com"
 
-  # assets:
-  # favicon: 
-  favicon16x16: <link rel="icon" type="image/png" sizes="16x16" href="/Favicon_16x16.png">
-  favicon32x32: <link rel="icon" type="image/png" sizes="32x32" href="/Favicon_32x32.png">
-  # apple_touch_icon: 
+  assets:
+    favicon: 
+    favicon16x16: "/Favicon_16x16.png"
+    favicon32x32: "/Favicon_32x32.png"
+    apple_touch_icon: "/Favicon.ico"
 
   label:
     text: "JaiJanse.com"
-    icon: /apple-touch-icon.png
+    icon: "/Favicon.ico"
     iconHeight: 35
 
   analytics:

@@ -1,0 +1,74 @@
+baseURL: "https://jaijanse.com/"
+title: Jai Janse
+paginate: 5
+theme: PaperMod
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+  env: production
+  title: jaijanse.com
+  description: "My Personal Website"
+  keywords: [Personal, Portfolio]
+  author: Me
+  DateFormat: "January 2, 2006"
+  defaultTheme: dark
+  disableThemeToggle: false
+
+  # Profile 
+  profileMode:
+    enabled: true
+    title: "Jai Janse"
+    subtitle: "Co Founder / Y12 Student"
+    imageUrl: ""
+    imageTitle: "Profile image"
+    imageWidth: 120
+    imageHeight: 120
+    
+  # Social icons 
+  socialIcons:
+    - name: Github
+      url: "https://github.com/Jai1278"
+    - name: Linkedin
+      url: "https://www.linkedin.com/in/jai-janse-755048321/"
+    - name: Email
+      url: "mailto:contact@jaijanse.com"
+
+  assets:
+    favicon: "<link / abs url>"
+    favicon16x16: "<link / abs url>"
+    favicon32x32: "<link / abs url>"
+    apple_touch_icon: "<link / abs url>"
+
+  label:
+    text: "JaiJanse.com"
+    icon: /apple-touch-icon.png
+    iconHeight: 35
+
+  analytics:
+    google:
+      SiteVerificationTag: "XYZabc"
+
+#menu:
+#  main:
+#    - identifier: portfolio
+#      name: Portfolio
+#      url: /portfolio/
+#      weight: 10
+#    - identifier: triple j 3d
+#      name: Triple J 3D
+#      url: https://jjj3d.co.nz
+#      weight: 30
+    
+
+pygmentsUseClasses: true
+markup:
+  highlight:
+    noClasses: false

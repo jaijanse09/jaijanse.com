@@ -1,7 +1,6 @@
 baseURL: "https://jaijanse.com/"
 title: Jai Janse
-pagination:
-  pagerSize: 5
+pagination.pagerSize: 5
 theme: PaperMod
 
 enableRobotsTXT: true

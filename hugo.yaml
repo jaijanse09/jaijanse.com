@@ -38,6 +38,8 @@ params:
       url: "https://github.com/jaijanse09"
     - name: Linkedin
       url: "https://www.linkedin.com/in/jai-janse-755048321/"
+    - name: CV
+      url: "/Jai_Janse_CV.pdf"  
     - name: Email
       url: "mailto:contact@jaijanse.com"
 

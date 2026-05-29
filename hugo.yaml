@@ -38,8 +38,8 @@ params:
       url: "https://github.com/jaijanse09"
     - name: Linkedin
       url: "https://www.linkedin.com/in/jaijanse09/"
-    - name: CV
-      url: "/Jai_Janse_CV_Website.pdf"  
+    - name: Instagram
+      url: "https://www.instagram.com/jjanse.zip/"  
     - name: Email
       url: "mailto:contact@jaijanse.com"
 
@@ -69,7 +69,6 @@ params:
 #      url: https://jjj3d.co.nz
 #      weight: 30
     
-
 pygmentsUseClasses: true
 markup:
   highlight:
